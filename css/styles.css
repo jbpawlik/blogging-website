@@ -1,0 +1,22 @@
+html {
+  background-color: burlywood;
+}
+
+.intro {
+  background-color: chartreuse;
+  color: brown;
+  text-align: right;
+  border: 1px dashed cadetblue;
+  border-radius: 20px;
+}
+
+.important {
+  font-style:italic;
+  font-family:'Courier New', Courier, monospace;
+}
+
+.aboutme {
+  background-color:blanchedalmond;
+  text-align:center;
+  border: 10px solid bisque;
+}
