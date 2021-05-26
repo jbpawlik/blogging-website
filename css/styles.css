@@ -1,36 +1,55 @@
-html {
-  background-color: burlywood;
-}
+
+
 
 .intro {
-  background-color: chartreuse;
-  color: brown;
-  text-align: right;
-  border: 1px dashed cadetblue;
+  background-color: rgb(222, 184, 135, .75);
+  margin: 10%;
+  color: rgb(77, 33, 33);
+  text-align: center;
+  font-weight: bolder;
+  border: 1em solid rgb(41, 28, 5);
   border-radius: 20px;
 }
 
 .blogs {
- 
+  margin-left: auto;
+  background-color: rgba(222, 184, 135, 0.75);
+  border: 1em solid rgb(41, 28, 5);
+  padding: 1em;
 }
+
 .important {
-  font-style:italic;
-  font-family:'Courier New', Courier, monospace;
+  font-weight:bold;
+  font-size: larger;
 }
 
 .aboutme {
-  margin-top: 5em;
-  background-color:green;
-  text-align:center;
-  border: 10px solid bisque;
+  margin-top: 1em;
+  background-color: rgb(222, 184, 135, .75);
+  text-align:left;
+  border: 1em solid rgb(41, 28, 5);
   border-radius: 5em;
-  margin-bottom: 5em;
+  margin-bottom: 1em;
+}
+
+img {
+  width: 30em;
+  margin-left: 25%;
+  padding: 1em;
+  box-sizing: border-box;
+  border: 1em solid rgb(41, 28, 5);
+  border-radius: 5em;
+  text-align: center;
 }
 
 .entry {
   margin-top: 5em;
   margin-bottom: 5em;
-  background-color: blueviolet;
-  border: 2em solid blue;
-  border-radius: 10em;
+  background-color: rgba(228, 219, 208, 0.75);
+  border: 1em solid rgb(41, 28, 5);
+}
+
+.para {
+  font-size: 2em;
+  text-align: center;
 }
