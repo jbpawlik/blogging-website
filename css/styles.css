@@ -10,13 +10,27 @@ html {
   border-radius: 20px;
 }
 
+.blogs {
+ 
+}
 .important {
   font-style:italic;
   font-family:'Courier New', Courier, monospace;
 }
 
 .aboutme {
-  background-color:blanchedalmond;
+  margin-top: 5em;
+  background-color:green;
   text-align:center;
   border: 10px solid bisque;
+  border-radius: 5em;
+  margin-bottom: 5em;
+}
+
+.entry {
+  margin-top: 5em;
+  margin-bottom: 5em;
+  background-color: blueviolet;
+  border: 2em solid blue;
+  border-radius: 10em;
 }
